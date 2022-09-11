@@ -7,12 +7,12 @@
   <p align="center">
     Sosyal Ağlarımız
     <br />
-    <a href=""><strong>Twitter</strong></a>
+    <a href="https://twitter.com/blockchainDEU"><strong>Twitter</strong></a>
     ·
-<a href="">Medium</a>
+<a href="https://blockchaindeu.medium.com/">Medium</a>
     ·
-    <a href="">Instagram</a>
+    <a href="https://www.instagram.com/blockchaindeu/">Instagram</a>
     ·
-    <a href="">Posta</a>
+    <a href="mailto:contact@blockchaindeu.com">Posta</a>
   </p>
 </div>

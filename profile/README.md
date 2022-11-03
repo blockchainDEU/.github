@@ -1,7 +1,7 @@
 <h3 align="center">Dokuz Eylül Blockchain Topluluğu GitHub Sayfası</h3>
 <div align="center">
   <a href="https://blockchaindeu.com">
-    <img src="https://raw.githubusercontent.com/blockchainDEU/.github-private/main/profile/logo.png" alt="Logo" width="128" height="64">
+    <img src="https://raw.githubusercontent.com/blockchainDEU/.github-private/main/profile/logo.png" alt="Logo" width="128" height="auto">
   </a>
 
   <p align="center">
